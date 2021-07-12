@@ -1,0 +1,2 @@
+rootProject.name = "CleanArchNavigationComponent"
+include ':app'
